@@ -1,0 +1,8 @@
+Hi!
+What's up?
+git add test.txt
+exit
+exit 0
+fi
+exec ./demo
+
